@@ -21,6 +21,34 @@
         - Associates Degree of General Studies
         - Arizona General Education Curriculum Certification
 
+# Professional Experience
+    - Wilson Electric Services Corp - 03/2016 to Present 
+      - Electrician, Graphic Design, Building Information Modeling (BIM), Bluebeam, Autodesk BIM 360.
+    
+    - Integrity Electric - 03/2018 to 03/2019 
+      - Electrician
+
+    - Element Electric and Air Conditioning - 01/2016 to 08/2017 
+      - Apprentice
+
+    - Hayden Electric INC - 08/2016 to 03/2018 
+      - Apprentice
+
+    - Element Electric and Air Conditioning - 01/2016 to 08/2017 
+      - Apprentice
+
+    - Scooped Dog Waste Removal Services - 01/2011 to 01/2016
+      - Owner
+
+    - Rapid Refill Ink - 04/2008 to 03/2009
+      - Store Manager
+
+    - osHelpers Affiliate Marketing Group - 06/2007 to 04/2008
+      - Data Entry 
+      - Advertising & Graphic Design
+
+
+
 
 <!---
 Thomas-Coletto-AZ/Thomas-Coletto-AZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
